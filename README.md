@@ -18,4 +18,4 @@ BiocManager::install("EBImage")
 ```
 ## Analysis
 
-Please please see script process.R. 
+Please please see script Process.R. 
